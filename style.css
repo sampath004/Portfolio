@@ -70,3 +70,13 @@ td:last-child{border-right-width: 0px;}
 tr:last-child td{border-bottom: none;}
 table{table-layout: fixed;
   text-align: center}
+
+  p:last-child {
+    animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
