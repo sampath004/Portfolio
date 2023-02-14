@@ -49,7 +49,7 @@ body {
   margin: 10px 0;
   white-space: nowrap;
   overflow: hidden;
-  animation: type 2.5s steps(60, end) backwards;
+  animation: type 10s steps(60, end) backwards;
   color: #ffffff;
   font-family: "VT323", monospace;
 }
@@ -80,3 +80,34 @@ table{table-layout: fixed;
       opacity: 0;
     }
   }
+
+
+svg{
+  display: block;
+  width: 30%;
+  margin: auto;
+  
+}
+#coder{
+  animation: dash 5s linear forwards;
+  stroke-dasharray: 5000;
+  stroke-dashoffset: 5000;
+}
+@keyframes dash {
+  to {
+    stroke-dashoffset: 5;
+  }
+}
+#colors{
+  opacity: 0;
+  animation: colorIn 5s 5s ease-out forwards;
+}
+@keyframes colorIn {
+  from {opacity:0;}
+  to {opacity: 1;}
+}
+@media only screen and (max-width: 600px) {
+    svg {
+        width: 100%;
+    }
+}
