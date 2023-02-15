@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
+  font-family: Menlo, Monaco, "Consolas", "Courier New", "Courier";
   width: 100%;
   height: 100%;
   margin: 0;
@@ -23,28 +23,35 @@ body {
   box-sizing: border-box;
   background-color: transparent;
 }
+
 .terminal::-webkit-scrollbar-track {
   border-radius: 0;
   background-color: #212121;
 }
+
 .terminal::-webkit-scrollbar {
   width: 10px;
   background-color: lighter(#212121, 50%);
 }
+
 .terminal::-webkit-scrollbar-thumb {
   border-radius: 2px;
   box-shadow: inset 0 0 5px black;
   background-color: #444;
 }
+
 @keyframes type {
   from {
     width: 0ch;
   }
+
   to {
     width: 100%;
   }
 }
-.terminal p, table {
+
+.terminal p,
+table {
   font-size: 11pt;
   margin: 10px 0;
   white-space: nowrap;
@@ -58,56 +65,80 @@ body {
   margin: 1px 0 15px 0;
 }
 
-p::before{content: ">"; margin-right: 10px;}
-.head{text-decoration: underline;}
+p::before {
+  content: ">";
+  margin-right: 10px;
+}
+
+.head {
+  text-decoration: underline;
+}
+
 td {
   border-style: dotted;
   border-right-width: 1px;
 }
 
-td:last-child{border-right-width: 0px;}
+td:last-child {
+  border-right-width: 0px;
+}
 
-tr:last-child td{border-bottom: none;}
-table{table-layout: fixed;
-  text-align: center}
+tr:last-child td {
+  border-bottom: none;
+}
 
-  p:last-child {
-    animation: blinker 1s linear infinite;
+table {
+  table-layout: fixed;
+  text-align: center
+}
+
+p:last-child {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
   }
-  
-  @keyframes blinker {
-    50% {
-      opacity: 0;
-    }
-  }
+}
 
 
-svg{
+svg {
   display: block;
   width: 30%;
   margin: auto;
-  
+
 }
-#coder{
+
+#coder {
   animation: dash 5s linear forwards;
   stroke-dasharray: 5000;
   stroke-dashoffset: 5000;
 }
+
 @keyframes dash {
   to {
     stroke-dashoffset: 5;
   }
 }
-#colors{
+
+#colors {
   opacity: 0;
   animation: colorIn 5s 5s ease-out forwards;
 }
+
 @keyframes colorIn {
-  from {opacity:0;}
-  to {opacity: 1;}
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
+
 @media only screen and (max-width: 600px) {
-    svg {
-        width: 100%;
-    }
+  svg {
+    width: 100%;
+  }
 }
