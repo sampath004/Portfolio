@@ -48,7 +48,7 @@ body {
   font-size: 11pt;
   margin: 10px 0;
   white-space: nowrap;
-  overflow: hidden;
+/*   overflow: hidden; */
   animation: type 10s steps(60, end) backwards;
   color: #ffffff;
   font-family: "VT323", monospace;
