@@ -35,8 +35,8 @@
                             <div class="swiper-wrapper"  >
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide">
-                                    <div class="bg"  data-bg="images/bg/1.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
-                                    <a href="images/bg/1.jpg" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
+                                    <div class="bg"  data-bg="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
+                                    <a href="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
                                     <div class="overlay"></div>
                                     <!-- hero-wrap-->           
                                     <div class="hero-wrap alt">
@@ -56,8 +56,8 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide">
-                                    <div class="bg"  data-bg="images/bg/2.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
-                                    <a href="images/bg/2.jpg" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
+                                    <div class="bg"  data-bg="https://img.freepik.com/free-photo/workers-it-company-working-computer_1303-19428.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
+                                    <a href="https://img.freepik.com/free-photo/workers-it-company-working-computer_1303-19428.jpg" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
                                     <div class="overlay"></div>
                                     <!-- hero-wrap-->           
                                     <div class="hero-wrap alt">
@@ -77,8 +77,8 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide">
-                                    <div class="bg"  data-bg="images/bg/4.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
-                                    <a href="images/bg/4.jpg" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
+                                    <div class="bg"  data-bg="https://img.freepik.com/premium-photo/digital-transformation-conceptual-generation-technology-era_109643-131.jpg?w=996" data-scrollax="properties: { translateY: '250px' }" ></div>
+                                    <a href="https://img.freepik.com/premium-photo/digital-transformation-conceptual-generation-technology-era_109643-131.jpg?w=996" class="  gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
                                     <div class="overlay"></div>
                                     <!-- hero-wrap-->           
                                     <div class="hero-wrap alt">
@@ -98,7 +98,7 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide">
-                                    <div class="bg"  data-bg="images/bg/23.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
+                                    <div class="bg"  data-bg="https://img.freepik.com/premium-photo/digital-technology-network-data-communication-concept-abstract-background-earth-element-furnished-by-nasa_24070-630.jpg?w=900" data-scrollax="properties: { translateY: '250px' }" ></div>
                                     <a href="images/bg/23.jpg" class="gallery-popup image-popup"><i class="fa fa-search"  ></i></a>
                                     <div class="overlay"></div>
                                     <!-- hero-wrap-->           
