@@ -26,7 +26,7 @@
                     <div class="content">
                         <!--  section  -->
                         <section class="parallax-section header-section" data-scrollax-parent="true">
-                            <div class="bg"  data-bg="images/web/skyscrapers-sunset.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
+                            <div class="bg"  data-bg="images/web/contact1.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
                             <div class="overlay"></div>
                             <div class="container big-container">
                                 <div class="section-title">
@@ -74,7 +74,8 @@
                                     </div>
                                 </div>
                                 <div class="map-box">
-                                    <div  id="map-canvas"></div>
+                                    <!-- <div  id="map-canvas"></div> -->
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11861.940272603619!2d-70.9761047!3d41.9898643!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e491b668ffa1e7%3A0x50d068bf012270a5!2sWebject%20Systems%20Inc!5e0!3m2!1sen!2sus!4v1677366424698!5m2!1sen!2sus" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                 </div>
                                 <div class="contact-details-wrap fl-wrap">
                                     <div class="row">
@@ -208,10 +209,10 @@
         </div>
         <!-- Main end -->
         <!--=============== scripts  ===============-->
-        <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyDwJSRi0zFjDemECmFl9JtRj1FY7TiTRRo"></script>
+        <!-- <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyAPE3GJx-x7z7dRkayGB8_iJH0biknkX6s"></script> -->
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/plugins.js"></script>
         <script type="text/javascript" src="js/scripts.js"></script>
-        <script type="text/javascript" src="js/map.js"></script>
+        <!-- <script type="text/javascript" src="js/map.js"></script> -->
     </body>
 </html>

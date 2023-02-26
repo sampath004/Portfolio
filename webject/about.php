@@ -70,7 +70,7 @@
                                             <div class="content-wrap about-wrap">
                                                 <div class="blog-media fl-wrap">
                                                     <div class="box-item">
-                                                        <img  src="images/web/about.jpg"  class="respimg" alt="">
+                                                        <img  src="images/web/about_team.jpg"  class="respimg" alt="">
                                                         
                                                     </div>
                                                 </div>
@@ -105,56 +105,7 @@
 
 
 
-                        <!--  section --> 
-                        <section  class="sml-pad-sec">
-                            <div class="container">
-                                <div class="facts-wrap fl-wrap">
-                                    <div class="inline-facts-holder fl-wrap">
-                                        <!-- inline-facts -->
-                                        <div class="inline-facts">
-                                            <div class="milestone-counter">
-                                                <div class="stats animaper">
-                                                    <div class="num" data-content="461" data-num="461">461</div>
-                                                </div>
-                                            </div>
-                                            <h6>Finished projects</h6>
-                                        </div>
-                                        <!-- inline-facts end -->
-                                        <!-- inline-facts  -->
-                                        <div class="inline-facts">
-                                            <div class="milestone-counter">
-                                                <div class="stats animaper">
-                                                    <div class="num" data-content="461" data-num="461">461</div>
-                                                </div>
-                                            </div>
-                                            <h6>Finished projects</h6>
-                                        </div>
-                                        <!-- inline-facts end -->
-                                        <!-- inline-facts  -->
-                                        <div class="inline-facts">
-                                            <div class="milestone-counter">
-                                                <div class="stats animaper">
-                                                    <div class="num" data-content="168" data-num="168">168</div>
-                                                </div>
-                                            </div>
-                                            <h6>Happy customers</h6>
-                                        </div>
-                                        <!-- inline-facts end -->
-                                        <!-- inline-facts  -->
-                                        <div class="inline-facts">
-                                            <div class="milestone-counter">
-                                                <div class="stats animaper">
-                                                    <div class="num" data-content="222" data-num="222">222</div>
-                                                </div>
-                                            </div>
-                                            <h6>Working hours </h6>
-                                        </div>
-                                        <!-- inline-facts end -->
-                                    </div>
-                                </div>
-                            </div>
-                        </section>
-                        <!--  section end --> 
+                      
                        
                         <!--  section  --> 									 
                         <section class="parallax-section" id="sec4">

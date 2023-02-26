@@ -40,7 +40,7 @@
                         <!--  sroll-nav-wrap end   --> 
                         <!--  section  --> 
                         <section class="parallax-section header-section" data-scrollax-parent="true" id="serv1">
-                            <div class="bg"  data-bg="images/web/services.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
+                            <div class="bg"  data-bg="images/web/services2.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
                             <div class="overlay"></div>
                             <div class="container big-container">
                                 <div class="section-title">
@@ -61,7 +61,7 @@
                                     <div class="serv-item fl-wrap" id="serv2">
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <div class="pr-title">
+                                                <div class="pr-title dektop-only-center">
                                                     Architecture
                                                     <span>Lorem Ipsum generators on the Internet tend to repeat king this the first true generator . </span>
                                                 </div>
@@ -104,7 +104,7 @@
                                     <div class="serv-item fl-wrap" id="serv3">
                                         <div class="row">
                                             <div class="col-md-4">
-                                                <div class="pr-title">
+                                                <div class="pr-title dektop-only-center">
                                                     Design
                                                     <span>Lorem Ipsum generators on the Internet tend to repeat king this the first true generator . </span>
                                                 </div>

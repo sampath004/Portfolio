@@ -93,6 +93,26 @@
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide">
+                                    <div class="bg"  data-bg="images/web/get_in_touch.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
+                                    
+                                    <!-- hero-wrap-->           
+                                    <div class="hero-wrap alt">
+                                        <div class="container">
+                                            <div class="hero-item">
+                                            	<h3>tend to repeat</h3>                                            
+                                                <h2> Interior <br> Project Title</h2>
+                                                <div class="clearfix"></div>
+                                                <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary .</p>
+                                                <div class="clearfix"></div>
+                                                <a href="portfolio-single.html" class="btn float-btn flat-btn">View Project</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- hero-wrap end-->   
+                                </div>
+                                <!-- swiper-slide end-->
+                                <!-- swiper-slide-->
+                                <div class="swiper-slide">
                                     <div class="bg"  data-bg="images/web/banner4.jpg" data-scrollax="properties: { translateY: '250px' }" ></div>
                                     
                                     <div class="overlay"></div>
@@ -134,19 +154,9 @@
                                                 </p>
                                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit.  
                                                 </p>
-                                                <br><br>
-                                                <h3 class="bold-title">What we do</h3>
-                                                <div class="pr-tags fl-wrap">
-                                                    <span>Services : </span>
-                                                    <ul>
-                                                        <li><a href="index.html#">Architecture</a></li>
-                                                        <li><a href="index.html#">Design</a></li>
-                                                        <li><a href="index.html#">Photography</a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="bold-separator"></span>
+                                                
                                                 <div class="clearfix"></div>
-                                                <a href="portfolio.html" class="btn float-btn flat-btn">Our portfolio</a>
+                                                <a href="portfolio.html" class="btn float-btn flat-btn">View More</a>
                                             </div>
                                         </div>
                                         <div class="col-md-5">
@@ -161,6 +171,58 @@
                             <div class="bg dec-bg left-pos-dec"  data-bg="images/bg/14.jpg"></div>
                         </section>
                         <!--section end  -->	
+
+<!--  section --> 
+<section class="sml-pad-sec">
+                            <div class="container">
+                                <div class="facts-wrap fl-wrap">
+                                    <div class="inline-facts-holder fl-wrap">
+                                        <!-- inline-facts -->
+                                        <div class="inline-facts">
+                                            <div class="milestone-counter">
+                                                <div class="stats animaper">
+                                                    <div class="num" data-content="461" data-num="461">461</div>
+                                                </div>
+                                            </div>
+                                            <h6>Finished projects</h6>
+                                        </div>
+                                        <!-- inline-facts end -->
+                                        <!-- inline-facts  -->
+                                        <div class="inline-facts">
+                                            <div class="milestone-counter">
+                                                <div class="stats animaper">
+                                                    <div class="num" data-content="461" data-num="461">461</div>
+                                                </div>
+                                            </div>
+                                            <h6>Finished projects</h6>
+                                        </div>
+                                        <!-- inline-facts end -->
+                                        <!-- inline-facts  -->
+                                        <div class="inline-facts">
+                                            <div class="milestone-counter">
+                                                <div class="stats animaper">
+                                                    <div class="num" data-content="168" data-num="168">168</div>
+                                                </div>
+                                            </div>
+                                            <h6>Happy customers</h6>
+                                        </div>
+                                        <!-- inline-facts end -->
+                                        <!-- inline-facts  -->
+                                        <div class="inline-facts">
+                                            <div class="milestone-counter">
+                                                <div class="stats animaper">
+                                                    <div class="num" data-content="222" data-num="222">222</div>
+                                                </div>
+                                            </div>
+                                            <h6>Working hours </h6>
+                                        </div>
+                                        <!-- inline-facts end -->
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <!--  section end --> 
+
                         <!--section -->	
                         <section  >
                             <div class="bg"  data-bg="images/web/home_team.jpg"></div>
@@ -168,41 +230,47 @@
                             <div class="container">
                                 <div class="intro-text fl-wrap">
                                     <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                    <a href="services.html" class="btn float-btn flat-btn">Our Services</a>
+                                    <a href="services.html" class="btn float-btn flat-btn">View Team</a>
                                     <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
                                 </div>
                             </div>
                         </section>
                         <!--section end  -->	
+
+  
+
                         <!--section -->	                             	 
-                        <section >
+                        <section class="sml-pad-sec current2">
                             <div class="container">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="pr-title">
-                                             <h3 class="bold-title" style="padding-bottom: 0;">Industries</h3>
-                                            
-                                            <span>Lorem Ipsum generators on the Internet tend to repeat king this the first true generator . </span>
-                                        </div>
-                                    </div>
-                                </div>
+                            
                                 <!--parallax-item -->	
                                 <div class="row">
-                                    <div class="col-md-5"></div>
-                                    <div class="col-md-7">
-                                        <div class="parallax-item fl-wrap" data-scrollax-parent="true">
-                                            <div class="parallax-header fl-wrap">
-                                                <span>01.</span>
-                                                <ul>
-                                                    <li><a href="index.html#">Design</a></li>
-                                                    <li><a href="index.html#">Architecture </a></li>
+                                    <div class="col-md-5 ">
+                                        
+                                        <div class="custom-inner dektop-only-center">
+                                            <div>
+
+                                                <ul >
+                                                    <li>Adipiscing elit</li>
+                                                    <li>  Cras lacinia </li>
+                                                    <li> Vel molestie </li>
+                                                    <li> Cras lacinia magna</li>
                                                 </ul>
                                             </div>
+                                        </div>
+                                                    
+                                    </div>
+                                               
+                                    <div class="col-md-7">
+                                        <div class="parallax-item fl-wrap" data-scrollax-parent="true">
+                                            
                                             <img  src="images/folio/2.jpg"   alt="">
                                             <div class="parallax-text left-pos" data-scrollax="properties: { translateY: '-250px' }">
-                                                <h3><a href="portfolio-single.html">Theatre de Stoep</a></h3>
+                                               
+                                            <h3><a href="portfolio-single.html">Theatre de Stoep</a></h3>
                                                 <h4>There are many variations of passages of Lorem Ipsum</h4>
                                                 <a href="portfolio-single.html" class="btn float-btn flat-btn">View project</a>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -212,13 +280,7 @@
                                 <div class="row">
                                     <div class="col-md-7">
                                         <div class="parallax-item fl-wrap" data-scrollax-parent="true">
-                                            <div class="parallax-header fl-wrap">
-                                                <span>02.</span>
-                                                <ul>
-                                                    <li><a href="index.html#">Design</a></li>
-                                                    <li><a href="index.html#">Architecture </a></li>
-                                                </ul>
-                                            </div>
+                                            
                                             <img  src="images/folio/11.jpg"   alt="">
                                             <div class="parallax-text right-pos" data-scrollax="properties: { translateY: '-250px' }">
                                                 <h3><a href="portfolio-single.html">New Acropolis Museum</a></h3>
@@ -227,55 +289,49 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-md-5 ">
+                                        
+                                        <div class="custom-inner dektop-only-center-right">
+                                            <div>
+
+                                                <ul >
+                                                    <li>Adipiscing elit</li>
+                                                    <li>  Cras lacinia </li>
+                                                    <li> Vel molestie </li>
+                                                    <li> Cras lacinia magna</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                                    
+                                    </div>
                                 </div>
                                 <!--parallax-item end-->	                    
-                                <!--parallax-item -->	
-                                <div class="row">
-                                    <div class="col-md-5"></div>
-                                    <div class="col-md-7">
-                                        <div class="parallax-item fl-wrap" data-scrollax-parent="true">
-                                            <div class="parallax-header fl-wrap">
-                                                <span>03.</span>
-                                                <ul>
-                                                    <li><a href="index.html#">Design</a></li>
-                                                    <li><a href="index.html#">Architecture </a></li>
-                                                </ul>
-                                            </div>
-                                            <img  src="images/folio/16.jpg"   alt="">
-                                            <div class="parallax-text left-pos" data-scrollax="properties: { translateY: '-250px' }">
-                                                <h3><a href="portfolio-single.html">Theatre de Stoep</a></h3>
-                                                <h4>There are many variations of passages of Lorem Ipsum</h4>
-                                                <a href="portfolio-single.html" class="btn float-btn flat-btn">View project</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--parallax-item end-->	
-                                <!--parallax-item -->	
-                                <div class="row">
-                                    <div class="col-md-7">
-                                        <div class="parallax-item fl-wrap" data-scrollax-parent="true">
-                                            <div class="parallax-header fl-wrap">
-                                                <span>04.</span>
-                                                <ul>
-                                                    <li><a href="index.html#">Design</a></li>
-                                                    <li><a href="index.html#">Architecture </a></li>
-                                                </ul>
-                                            </div>
-                                            <img  src="images/folio/19.jpg"   alt="">
-                                            <div class="parallax-text right-pos" data-scrollax="properties: { translateY: '-250px' }">
-                                                <h3><a href="portfolio-single.html">New Acropolis Museum</a></h3>
-                                                <h4>There are many variations of passages of Lorem Ipsum</h4>
-                                                <a href="portfolio-single.html" class="btn float-btn flat-btn">View project</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!--parallax-item end-->	                       
+                              
+                             	                       
                             </div>
                             <div class="partcile-dec" data-parcount="250"></div>
                         </section>
-                        <!--section end  -->	
+                        <!--section end  -->
+                        
+                        <section class="sml-pad-sec">
+                        <div class="container">
+                                <div class="row">
+                                    <div class="col-md-4"></div>
+                                    <div class="col-md-8">
+                                        <div class="order-item margin-content fl-wrap">
+                                            <div class="row">
+                                                <div class="col-md-4"></div>
+                                                <div class="col-md-5">
+                                                    <h3>Ready to order our project ? </h3>
+                                                </div>
+                                                <div class="col-md-3"><a href="#sec6" class="btn float-btn flat-btn custom-scroll-link">Get in Touch</a></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
                         <!--section -->	
                         <!-- <section class="parallax-section header-section  " data-scrollax-parent="true" id="sec6">
                             <div class="bg"  data-bg="images/bg/1.jpg" data-scrollax="properties: { translateY: '200px' }"></div>

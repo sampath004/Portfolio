@@ -52,6 +52,9 @@ $activePage = basename($_SERVER['PHP_SELF'], ".php");
                             <li>
                                 <a href="industries.php" class="<?= ($activePage == 'industries') ? 'act-link':''; ?>">Industries </a>
                             </li>
+                            <li>
+                                <a href="careers.php" class="<?= ($activePage == 'careers') ? 'act-link':''; ?>">Careers </a>
+                            </li>
                             
                             <li>
                                 <a href="contact.php" class="<?= ($activePage == 'contact') ? 'act-link':''; ?>">Contact </a>

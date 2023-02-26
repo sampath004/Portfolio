@@ -1,6 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en">
-    <head>
+    <head> 
         <!--=============== basic  ===============-->
         <meta charset="UTF-8">
         <title>Balkon - Creative  Responsive  Architecture Template</title>
@@ -28,7 +28,7 @@
 
                         <!--  section  --> 
                         <section class="parallax-section header-section" data-scrollax-parent="true" id="serv1">
-                            <div class="bg"  data-bg="images/web/blue-purple-technology-circuit.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
+                            <div class="bg"  data-bg="images/web/careers.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
                             <div class="overlay"></div>
                             <div class="container big-container">
                                 <div class="section-title">
@@ -42,124 +42,102 @@
                         </section>
                         <!--  section  end--> 
                        
-                        <section id="sec2">
-                            <div class="container">
-                                <!-- filter -->
-                                <div class="filter-holder inline-filter bold-filter fl-wrap">
-                                    <div class="filter-button"><span>Filter : </span></div>
-                                    <div class="gallery-filters">
-                                        <a href="#" class="gallery-filter gallery-filter-active" data-filter="*">All Works</a>
-                                        <a href="#" class="gallery-filter " data-filter=".houses">Houses</a>
-                                        <a href="#" class="gallery-filter" data-filter=".apartments">Apartments</a>
-                                        <a href="#" class="gallery-filter" data-filter=".interior">Interior</a>
-                                        <a href="#" class="gallery-filter" data-filter=".design">Design</a>
-                                    </div>
-                                    <div class="count-folio">
-                                        <div class="num-album">13</div>
-                                        <div class="all-album">13</div>
+<section> 
+                                            
+                        <!-- column-content-->  
+                        <div class="fl-wrap column-content">
+                            <!-- gallery-items   -->
+                            <div class="gallery-items grid-no-pad hid-por-info" id="sec1">
+                                <!-- 1 -->
+                                <div class="gallery-item apartments">
+                                <div class="grid-item-holder">
+                                        <div class="post-container fl-wrap">
+                                            <!-- post -->
+                                            <div class="post fl-wrap fw-post single-post">
+                                                <div class="blog-text fl-wrap">
+                                                    <div class="pr-tags fl-wrap">
+                                                        <span>Title </span>
+                                                    </div>
+                                                    <p>
+                                                        Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. Integer iaculis tellus nulla, quis imperdiet magna venenatis vitae..
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <!-- post end-->
+                                        </div>
                                     </div>
                                 </div>
-                                <!-- filter end-->
-	
+                                <!-- 1 end -->
+                                <!-- 2 -->
+                                <div class="gallery-item houses interior">
+                                    <div class="grid-item-holder">
+                                        <div class="post-container fl-wrap">
+                                            <!-- post -->
+                                            <div class="post fl-wrap fw-post single-post">
+                                                <div class="blog-text fl-wrap">
+                                                    <div class="pr-tags fl-wrap">
+                                                        <span>Title </span>
+                                                    </div>
+                                                    <p>
+                                                        Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. Integer iaculis tellus nulla, quis imperdiet magna venenatis vitae..
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <!-- post end-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 2 end -->
+                                <!-- 3 -->
+                                <div class="gallery-item   interior">
+                                <div class="grid-item-holder">
+                                        <div class="post-container fl-wrap">
+                                            <!-- post -->
+                                            <div class="post fl-wrap fw-post single-post">
+                                                <div class="blog-text fl-wrap">
+                                                    <div class="pr-tags fl-wrap">
+                                                        <span>Title </span>
+                                                    </div>
+                                                    <p>
+                                                        Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. Integer iaculis tellus nulla, quis imperdiet magna venenatis vitae..
+                                                    </p>
+                                                </div>
+                                            </div>
+                                            <!-- post end-->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- 3 end -->
+                                                    
+                            </div>
+                            <!-- end gallery items -->   
+                        </div>
+                        <!--column-content end-->   
+<!-- filter  -->
+<div class="fixed-filter-wrap">
+                            <div class="partcile-dec" data-parcount="110"></div>
+                            <div class="fixed-filter fl-wrap">
+                                <h3>Our Portfolio</h3>
+                                <div class="bold-separator"></div>
+                                <div class="filter-button hid-filt-button">Filter</div>
+                                <div class="gallery-filters">
+                                    <a href="portfolio3.html#" class="gallery-filter gallery-filter-active"  data-filter="*">All Works</a>
+                                    <a href="portfolio3.html#" class="gallery-filter " data-filter=".houses">Houses</a>
+                                    <a href="portfolio3.html#" class="gallery-filter" data-filter=".apartments">Apartments</a>
+                                    <a href="portfolio3.html#" class="gallery-filter" data-filter=".interior">Interior</a>
+                                    <a href="portfolio3.html#" class="gallery-filter" data-filter=".design">Design</a>
+                                </div>
+                                <div class="clearfix"></div>
+                                <div class="count-folio ">
+                                    <div class="num-album"></div>
+                                    <div class="all-album"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- filter end --> 
 
-                                <!-- gallery-items   -->
-                                <div class="gallery-items   hid-por-info " style="position: relative; height: 1291.36px;">
-                                    <!-- 1 -->
-                                    <div class="gallery-item houses apartments" style="position: absolute; left: 0px; top: 0px;">
-                                        <div class="grid-item-holder">
-                                            
-                                        <div class="bg"  data-bg="images/web/banner1.jpg"></div>
-                            <div class="overlay"></div>
-                            <div class="container">
-                                <div class="intro-text fl-wrap">
-                                    <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                    <a href="services.html" class="btn float-btn flat-btn">View Team</a>
-                                    <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
-                                </div>
-                            </div>
-                                        </div>
-                                    </div><br><div class="clearfix"></div>
-                                    <!-- 1 end -->
-                                    <!-- 2 -->
-                                    <div class="gallery-item houses interior" style="position: absolute; left: 389px; top: 0px;">
-                                    <div class="grid-item-holder">
-                                            
-                                            <div class="bg"  data-bg="images/web/banner2.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="container">
-                                    <div class="intro-text fl-wrap">
-                                        <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                        <a href="services.html" class="btn float-btn flat-btn">View Team</a>
-                                        <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
-                                    </div>
-                                </div>
-                                            </div>
-                                    </div>
-                                    <!-- 2 end -->
-                                    <!-- 3 -->
-                                    <div class="gallery-item  apartments interior" style="position: absolute; left: 778px; top: 0px;">
-                                    <div class="grid-item-holder">
-                                            
-                                            <div class="bg"  data-bg="images/web/banner3.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="container">
-                                    <div class="intro-text fl-wrap">
-                                        <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                        <a href="services.html" class="btn float-btn flat-btn">View Team</a>
-                                        <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
-                                    </div>
-                                </div>
-                                            </div>
-                                    </div>
-                                    <!-- 3 end -->
-                                    <!-- 4 -->
-                                    <div class="gallery-item  interior design" style="position: absolute; left: 0px; top: 257px;">
-                                    <div class="grid-item-holder">
-                                            
-                                            <div class="bg"  data-bg="images/web/banner4.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="container">
-                                    <div class="intro-text fl-wrap">
-                                        <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                        <a href="services.html" class="btn float-btn flat-btn">View Team</a>
-                                        <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
-                                    </div>
-                                </div>
-                                            </div>
-                                    </div>
-                                    <!-- 4 end -->
-                                    <!-- 5 -->
-                                    <div class="gallery-item houses design" style="position: absolute; left: 389px; top: 257px;">
-                                    <div class="grid-item-holder">
-                                            
-                                            <div class="bg"  data-bg="images/web/banner5.jpg"></div>
-                                <div class="overlay"></div>
-                                <div class="container">
-                                    <div class="intro-text fl-wrap">
-                                        <h2>Entrust your project <br>to our team of  <br>professionals</h2>
-                                        <a href="services.html" class="btn float-btn flat-btn">View Team</a>
-                                        <a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a>
-                                    </div>
-                                </div>
-                                            </div>
-                                    </div>
-                                    <!-- 5 end -->
-                                  
-                                </div>
-                                <!-- end gallery items --> 
-                                <div class="order-item fl-wrap margin-content">
-                                    <div class="row">
-                                        <div class="col-md-4"></div>
-                                        <div class="col-md-5">
-                                            <h3>Ready to order your project ? </h3>
-                                        </div>
-                                        <div class="col-md-3"><a href="contact.html" class="btn float-btn flat-btn">Get in Touch</a></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="partcile-dec" data-parcount="200"><canvas width="1271" style="display: block; background: rgba(255, 255, 255, 0.01);" height="1716"></canvas></div>
-                        </section>
                     </div>
+</section>
                     <!-- content end -->	
                     <div class="limit-box fl-wrap"></div>
                     <!--=============== content-footer   ===============-->
