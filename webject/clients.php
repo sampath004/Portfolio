@@ -4,7 +4,7 @@
 <head>
     <!--=============== basic  ===============-->
     <meta charset="UTF-8">
-    <title>Balkon - Creative Responsive Architecture Template</title>
+    <title>Webject Systems Inc - Clients</title>
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow" />
@@ -27,34 +27,25 @@
         <div class="content-holder">
             <!--  content -->
             <div class="content">
-                <!--  sroll-nav-wrap -->
-                <div class="sroll-nav-wrap">
-                    <div class="sroll-nav-container">
-                        <nav class="scroll-nav scroll-init fl-wrap">
-                            <ul>
-                                <li><a class="scroll-link act-scrlink"
-                                        href="about-personal.html#sec1">01.<span>Hero</span></a></li>
-                                <li><a class="scroll-link" href="about-personal.html#sec2">02.<span>About</span></a>
-                                </li>
-                                <li><a class="scroll-link" href="about-personal.html#sec3">03.<span>Facts</span></a>
-                                </li>
-                                <li><a class="scroll-link" href="about-personal.html#sec4">04.<span>Skills</span></a>
-                                </li>
-                                <li><a class="scroll-link" href="about-personal.html#sec5">05.<span>Clients</span></a>
-                                </li>
-                                <li><a class="scroll-link" href="about-personal.html#sec6">06.<span>Resume</span></a>
-                                </li>
-                            </ul>
-                        </nav>
-                    </div>
-                </div>
-                <!--  sroll-nav-wrap end-->
-
-                <section>
+              
+            <section id="sec5" class="current2">
                     <div class="container">
-                        <div class="clients-list fl-wrap">
-                            <h3 class="bold-title" style="padding-bottom: 0;">Clients</h3>
-                            <ul>
+                        <div class="row">
+
+                            <div class="col-md-4">
+
+                                <div class="pr-title">
+                                    <h3 class="bold-title" style="padding-bottom: 0;">Clients</h3>
+                                    <img src="images/web/clients.jpeg" alt="" class="respimg">
+                                    <span>Internet tend to repeat predefined chunks If you are going to use a passage of
+                                        Lorem Ipsum.</span>
+                                        
+                                </div>
+                            </div>
+                            <div class="col-md-8 ">
+                                <div class="clients-list fl-wrap">
+
+                                <ul>
                                 <li><a href="index.html#" target="_blank"> <img src="images/clients/1.jpg" alt=""> </a>
                                 </li>
                                 <li><a href="index.html#" target="_blank"> <img src="images/clients/2.jpg" alt=""> </a>
@@ -86,10 +77,20 @@
                                 <li><a href="index.html#" target="_blank"> <img src="images/clients/5.jpg" alt=""> </a>
                                 </li>
                             </ul>
+                                </div>
+                            
+                            </div>
                         </div>
                     </div>
+                    <div class="border-section-wrap">
+                        <div class="border-section"></div>
+                    </div>
                 </section>
+
                 <!--section end  -->
+
+
+
                 <div class="limit-box fl-wrap"></div>
             </div>
             <!--  content end-->
@@ -119,16 +120,8 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>About Me</span></div>
-        <div class="footer-social">
-            <ul>
-                <li><a href="about-personal.html#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="about-personal.html#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="about-personal.html#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="about-personal.html#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                <li><a href="about-personal.html#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
-            </ul>
-        </div>
+        <div class="fixed-title"><span>We worked with</span></div>
+        <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->
     </div>

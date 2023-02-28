@@ -4,7 +4,7 @@
 <head>
     <!--=============== basic  ===============-->
     <meta charset="UTF-8">
-    <title>Balkon - Creative Responsive Architecture Template</title>
+    <title>Webject Systems Inc - Contact Us</title>
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow" />
@@ -39,7 +39,7 @@
                             <h2>Get In Touch <br> with us</h2>
                             <p>Curabitur bibendum mi sed rhoncus aliquet. Nulla blandit porttitor justo, at posuere sem
                                 accumsan nec.</p>
-                            <a href="contact.html#sec1" class="custom-scroll-link sect-scroll-link"><i
+                            <a href="contact.php#sec1" class="custom-scroll-link sect-scroll-link"><i
                                     class="fa fa-long-arrow-down"></i> <span>scroll down</span></a>
                         </div>
                     </div>
@@ -58,18 +58,16 @@
                                 <div class="col-md-9">
                                     <div class="contact-details fl-wrap">
                                         <div class="row border-dec">
-                                            <div class="col-md-6">
-                                                <h4><span>01.</span>Office in New York</h4>
+                                            <div class="col-md-4">
+                                                <h4><span>01.</span>Office in Bridgewater</h4>
                                                 <ul>
-                                                    <li><span>Mail :</span><a href="contact.html#"
-                                                            target="_blank">yourmail@domain.com</a></li>
-                                                    <li><span>Adress :</span><a href="contact.html#" target="_blank">USA
-                                                            27TH Brooklyn NY</a></li>
-                                                    <li><span>Phone :</span><a href="contact.html#">+7(111)123456789</a>
-                                                    </li>
-                                                </ul>
+                           <li><span>Mail :</span><a href="mailto:iinfo@webject.com" target="_blank">info@webject.com</a></li>
+                           <li> <span>Adress :</span><a href="contact.php" target="_blank">25 Central Square, Suite 2,<br> Bridgewater, MA 02324</a></li>
+                           <li><span>Phone :</span><a href="tel:(508) 279-6562"> (508) 279-6562</a></li>
+                       </ul>
                                             </div>
-                                            <div class="col-md-6">
+                                            <div class="col-md-2"></div>
+                                            <div class="col-md-4">
                                                 <h4><span>02.</span>Work Hours</h4>
                                                 <ul>
                                                     <li><span>Monday - Friday : </span> 08h.00 - 17h.30</li>
@@ -92,13 +90,13 @@
                         <div class="contact-details-wrap fl-wrap">
                             <div class="row">
                                 <div class="col-md-3">
-                                    <div class="small-sec-title">
+                                    <!-- <div class="small-sec-title">
                                         <h3>Get in Touch : </h3>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <div class="col-md-9">
                                     <!-- contact form -->
-                                    <div class="contact-form-holder fl-wrap">
+                                    <!-- <div class="contact-form-holder fl-wrap">
                                         <div id="contact-form">
                                             <div id="message"></div>
                                             <form method="post"
@@ -124,7 +122,7 @@
                                                     </span></button>
                                             </form>
                                         </div>
-                                    </div>
+                                    </div> -->
                                     <!-- contact form  end-->
                                 </div>
                             </div>
@@ -138,11 +136,11 @@
                 <!--  social-wrap  -->
                 <div class="social-wrap fl-wrap">
                     <ul>
-                        <li><a href="contact.html#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="contact.html#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="contact.html#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="contact.html#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a href="contact.html#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
                     </ul>
                 </div>
                 <!--  social-wrap  end-->

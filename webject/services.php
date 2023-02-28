@@ -48,7 +48,7 @@
                 <!--  section  end-->
                 <!--  section  -->
 
-                <section data-scrollax-parent="true">
+                <section class="sml-pad-sec" data-scrollax-parent="true">
                     <div class="container">
                         <div class="section-container  fl-wrap">
                             <!--serv-item end -->
@@ -88,10 +88,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                        
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -135,10 +132,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                       
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -181,10 +175,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                       
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -229,10 +220,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                        
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -277,10 +265,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                       
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -325,10 +310,7 @@
                                             <li><span>03.</span> Vel molestie </li>
                                             <li><span>04.</span> Cras lacinia magna</li>
                                         </ul>
-                                        <div class="serv-price-wrap">
-                                            <span>Price</span>
-                                            $250-$350
-                                        </div>
+                                        
                                         <div class="clearfix"></div>
                                         <span class="bold-separator"></span>
                                     </div>
@@ -383,7 +365,7 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>Services</span></div>
+        <div class="fixed-title"><span>Services we offer</span></div>
         <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->

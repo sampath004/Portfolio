@@ -4,7 +4,7 @@
 <head>
     <!--=============== basic  ===============-->
     <meta charset="UTF-8">
-    <title>Balkon - Creative Responsive Architecture Template</title>
+    <title>Webject Systems Inc - Team</title>
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="robots" content="index, follow" />
@@ -37,9 +37,10 @@
 
                                 <div class="pr-title">
                                     <h3 class="bold-title" style="padding-bottom: 0;">Team</h3>
-
+                                    <img src="images/web/team.jpeg" alt="" class="respimg">
                                     <span>Internet tend to repeat predefined chunks If you are going to use a passage of
                                         Lorem Ipsum.</span>
+                                        
                                 </div>
                             </div>
                             <div class="col-md-8">
@@ -173,7 +174,7 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>About Me</span></div>
+        <div class="fixed-title"><span>Who is behind</span></div>
         <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->

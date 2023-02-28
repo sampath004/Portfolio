@@ -41,7 +41,7 @@
                             <h2>Careers</h2>
                             <p>Curabitur bibendum mi sed rhoncus aliquet. Nulla blandit porttitor justo, at posuere sem
                                 accumsan nec.</p>
-                            <a href="services.html#serv2" class="custom-scroll-link sect-scroll-link"><i
+                            <a href="careers.php#sec1" class="custom-scroll-link sect-scroll-link"><i
                                     class="fa fa-long-arrow-down"></i> <span>scroll down</span></a>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                         <div class="gallery-items grid-no-pad hid-por-info" id="sec1"
                             style="padding-left: 20px;padding-right:20px;">
                             <!-- 1 -->
-                            <div class="gallery-item j2">
+                            <div class="gallery-item j3">
                                 <div class="grid-item-holder">
                                     <div class="post-container fl-wrap">
                                         <!-- post -->
@@ -65,12 +65,23 @@
                                                 <div class="pr-tags fl-wrap">
                                                     <span>Software Applications Developer </span>
                                                 </div>
-                                                <p>
-                                                    Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac
-                                                    nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus
-                                                    felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta.
-                                                    Integer iaculis tellus nulla, quis imperdiet magna venenatis vitae..
-                                                </p>
+                                                <p></p>
+                                               <p><u>Job Duties:</u></p>
+                                               <p>Analyze science, engineering, business, and other data processing problems to implement and improve computer systems. Analyze user requirements, procedures, and problems to automate or improve existing systems and review computer system capabilities, workflow, and scheduling limitations. Provide support for the existing programs by fixing the code and data using C#, ASP.Net, VB.Net, .Net, SQL Server and Web application Technologies. </p>
+                                               <p>Required Education: Master’s Degree in Science, Engineering or related field.</p>
+
+                                                <p>Required years of Experience: 6 Months experience in Information Technology.</p>
+                                                <p><span class="left_job_info">Job Type:</span> Full Time</p>
+
+                                                <p><span class="left_job_info">Work Hours:</span>9:00AM TO 5:00PM</p>
+
+                                                <p><span class="left_job_info">Hours Per Week:</span>40</p>
+
+                                                <p><span class="left_job_info">Position ID:</span>202301-209276</p>
+
+                                                <p><span class="left_job_info">Salary:</span>$94,661.00/Year </p>
+
+                                                <a href="mailto:info@webject.com" class="btn float-btn flat-btn">Apply Now</a>
                                             </div>
                                         </div>
                                         <!-- post end-->
@@ -79,7 +90,7 @@
                             </div>
                             <!-- 1 end -->
                             <!-- 2 -->
-                            <div class="gallery-item j3">
+                            <div class="gallery-item j2">
                                 <div class="grid-item-holder">
                                     <div class="post-container fl-wrap">
                                         <!-- post -->
@@ -186,16 +197,8 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>Portfolio</span></div>
-        <div class="footer-social">
-            <ul>
-                <li><a href="portfolio3.html#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="portfolio3.html#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="portfolio3.html#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="portfolio3.html#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                <li><a href="portfolio3.html#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
-            </ul>
-        </div>
+        <div class="fixed-title"><span>Aim something big</span></div>
+        <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->
     </div>

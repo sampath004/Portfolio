@@ -4,29 +4,50 @@
        <div class="footer-inner">
            <div class="row">
                <div class="col-md-3">
-                   <a class="footer-logo" href="index.html"><img src="images/logo.png" alt=""></a>
+                   <a class="footer-logo" href="index.php"><img src="images/logo.png" alt=""></a>
                </div>
-               <div class="col-md-4">
-                   <div class="footer-header fl-wrap"><span>01.</span> Contacts</div>
+               <div class="col-md-3">
+                   <div class="footer-header fl-wrap">Contact Info</div>
                    <div class="footer-box fl-wrap">
                        <ul>
-                           <li><span>Mail :</span><a href="index.html#" target="_blank">yourmail@domain.com</a></li>
-                           <li> <span>Adress :</span><a href="index.html#" target="_blank">USA 27TH Brooklyn NY</a></li>
-                           <li><span>Phone :</span><a href="index.html#">+7(111)123456789</a></li>
+                           <li><span>Mail :</span><a href="mailto:iinfo@webject.com" target="_blank">info@webject.com</a></li>
+                           <li> <span>Adress :</span><a href="contact.php" target="_blank">25 Central Square, Suite 2,<br> Bridgewater, MA 02324</a></li>
+                           <li><span>Phone :</span><a href="tel:(508) 279-6562"> (508) 279-6562</a></li>
                        </ul>
                    </div>
                </div>
-               <div class="col-md-5">
-                   <div class="footer-header fl-wrap"><span>02.</span> Subscribe</div>
+               <div class="col-md-3">
+                   <div class="footer-header fl-wrap">Company</div>
                    <div class="footer-box fl-wrap">
                        <div class="subcribe-form fl-wrap">
-                           <span>Newsletter</span>
-                           <form id="subscribe">
-                               <input class="enteremail" name="email" id="subscribe-email" placeholder="email"
-                                   spellcheck="false" type="text">
-                               <button type="submit" id="subscribe-button" class="subscribe-button">Submit</button>
-                               <label for="subscribe-email" class="subscribe-message"></label>
-                           </form>
+                       <div class="">
+                                    <div>
+
+                                        <ul>
+                                            <li><a href="about.php">About Us</a></li>
+                                            <li><a href="team.php">Team</a></li>
+                                            <li><a href="clients.php">Clients</a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                       </div>
+                   </div>
+               </div>
+               <div class="col-md-3">
+                   <div class="footer-header fl-wrap"> Quick links</div>
+                   <div class="footer-box fl-wrap">
+                       <div class="subcribe-form fl-wrap">
+                       <div class="">
+                                    <div>
+
+                                        <ul>
+                                            <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                                            <li><a href="terms-of-use.php">Terms of use</a></li>
+
+                                        </ul>
+                                    </div>
+                                </div>
                        </div>
                    </div>
                </div>

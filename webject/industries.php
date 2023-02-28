@@ -41,7 +41,7 @@
                             <h2>Industries</h2>
                             <p>Curabitur bibendum mi sed rhoncus aliquet. Nulla blandit porttitor justo, at posuere sem
                                 accumsan nec.</p>
-                            <a href="industries.php#serv2" class="custom-scroll-link sect-scroll-link"><i
+                            <a href="industries.php#sec2" class="custom-scroll-link sect-scroll-link"><i
                                     class="fa fa-long-arrow-down"></i> <span>scroll down</span></a>
                         </div>
                     </div>
@@ -194,7 +194,7 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>Portfolio</span></div>
+        <div class="fixed-title"><span>Industries we worked in</span></div>
         <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->

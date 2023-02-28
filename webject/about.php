@@ -84,19 +84,7 @@
                                             world-wide. Webject is organized into business units to focus on core
                                             technological areas to support the needs of our clients.
                                         </p>
-                                        <!-- <br><br>
-                                                <h3 class="bold-title">What we do</h3>
-                                                <div class="pr-tags fl-wrap">
-                                                    <span>Services : </span>
-                                                    <ul>
-                                                        <li><a href="about.html#">Architecture</a></li>
-                                                        <li><a href="about.html#">Design</a></li>
-                                                        <li><a href="about.html#">Photography</a></li>
-                                                    </ul>
-                                                </div>
-                                                <span class="bold-separator"></span>
-                                                <div class="clearfix"></div>
-                                                <a href="portfolio.html" class="btn float-btn flat-btn">Our portfolio</a> -->
+                                      
                                     </div>
                                 </div>
                             </div>
@@ -235,7 +223,7 @@
                         <div class="row">
                             <div class="col-md-4"></div>
                             <div class="col-md-8">
-                                <a href="about.html#" class="btn float-btn flat-btn">Download PDF</a>
+                                <a href="about.php#" class="btn float-btn flat-btn">Download PDF</a>
                             </div>
                         </div>
                     </div>

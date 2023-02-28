@@ -349,7 +349,7 @@
                                         <div class="col-md-5">
                                             <h3>Ready to order our project ? </h3>
                                         </div>
-                                        <div class="col-md-3"><a href="#sec6"
+                                        <div class="col-md-3"><a href="contact.php"
                                                 class="btn float-btn flat-btn custom-scroll-link">Get in Touch</a></div>
                                     </div>
                                 </div>
@@ -358,78 +358,14 @@
                     </div>
                 </section>
 
-                <!--section -->
-                <!-- <section class="parallax-section header-section  " data-scrollax-parent="true" id="sec6">
-                            <div class="bg"  data-bg="images/bg/1.jpg" data-scrollax="properties: { translateY: '200px' }"></div>
-                            <div class="overlay"></div>
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="pr-title">
-                                            Testimonials
-                                        </div>
-                                    </div>
-                                    <div class="col-md-8">
-                                        <div class="single-slider testilider fl-wrap" data-effects="slide">
-                                            <div class="swiper-container">
-                                                <div class="swiper-wrapper">
-                                                    <div class="swiper-slide">
-                                                        <div class="testi-item fl-wrap">
-                                                            <h3>Andy Smith</h3>
-                                                            <p>"All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words"</p>
-                                                            <a href="index.html#" class="btn float-btn flat-btn" target="_blank">Via Twitter</a>
-                                                        </div>
-                                                    </div>
-                                                    
-                                                    <div class="swiper-slide">
-                                                        <div class="testi-item fl-wrap">
-                                                            <h3>Liza Mirovsky</h3>
-                                                            <p>"Vestibulum orci felis, ullamcorper non condimentum non, ultrices ac nunc. Mauris non ligula suscipit, vulputate mi accumsan, dapibus felis. Nullam sed sapien dui. Nulla auctor sit amet sem non porta. Integer iaculis tellus nulla, quis imperdiet magna venenatis vitae"</p>
-                                                            <a href="index.html#" class="btn float-btn flat-btn" target="_blank">Via Facebook</a>
-                                                        </div>
-                                                    </div>
-                                                   
-                                                    <div class="swiper-slide">
-                                                        <div class="testi-item fl-wrap">
-                                                            <h3>Gary Trust</h3>
-                                                            <p>"If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."</p>
-                                                            <a href="index.html#" class="btn float-btn flat-btn" target="_blank">Via Myspace</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="swiper-pagination"></div>
-                                                <div class="swiper-button-prev"><i class="fa fa-angle-left"></i></div>
-                                                <div class="swiper-button-next"><i class="fa fa-angle-right"></i></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </section> -->
-                <!--section end  -->
-                <!--section -->
-                <!-- <section>
-                            <div class="container">
-                                <div class="clients-list fl-wrap">
-                                    <ul>
-                                        <li><a href="index.html#" target="_blank"> <img src="images/clients/1.jpg" alt=""> </a></li>
-                                        <li><a href="index.html#" target="_blank"> <img src="images/clients/2.jpg" alt=""> </a></li>
-                                        <li><a href="index.html#" target="_blank"> <img src="images/clients/3.jpg" alt=""> </a></li>
-                                        <li><a href="index.html#" target="_blank"> <img src="images/clients/4.jpg" alt=""> </a></li>
-                                        <li><a href="index.html#" target="_blank"> <img src="images/clients/5.jpg" alt=""> </a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </section> -->
-                <!--section end  -->
                 <!--social-wrap -->
                 <div class="social-wrap fl-wrap">
                     <ul>
-                        <li><a href="index.html#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="index.html#" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="index.html#" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="index.html#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                        <li><a href="index.html#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="fa fa-tumblr"></i></a></li>
                     </ul>
                 </div>
                 <!--social-wrap end-->
@@ -461,7 +397,7 @@
     <!-- Share container  end-->
     <!-- footer -->
     <footer class="main-footer">
-        <div class="fixed-title"><span>Home</span></div>
+        <div class="fixed-title"><span>Welcome</span></div>
         <?php include('sidebar.php'); ?>
     </footer>
     <!-- footer end-->
